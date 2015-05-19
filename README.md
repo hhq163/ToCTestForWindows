@@ -1,0 +1,2 @@
+# ToCTestForWindows
+a mfc program
