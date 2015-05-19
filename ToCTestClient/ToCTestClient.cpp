@@ -15,7 +15,6 @@
 #define new DEBUG_NEW
 #endif
 
-
 // CToCTestClientApp
 
 BEGIN_MESSAGE_MAP(CToCTestClientApp, CWinAppEx)
